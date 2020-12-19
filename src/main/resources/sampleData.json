@@ -1,0 +1,16 @@
+{
+  "passengerInfo":{
+    "name": "Mahesh",
+    "email": "mahe@gmail.com",
+    "source": "BLR",
+    "destination": "NLR",
+    "travelDate": "12-12-2020",
+    "pickupTime": "4.0 PM",
+    "arrivalTime": "6.0 AM",
+    "fare": 8000.0
+  },
+  "paymentInfo":{
+    "accountNo": "acc1",
+    "cardType": "DEBIT"
+  }
+}
